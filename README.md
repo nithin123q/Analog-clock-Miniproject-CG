@@ -1,6 +1,6 @@
 # CG-Miniproject-Analog-clock
 
-#Aim:
+Aim:
 
  In this program we have designed an analogue clock which tells the current time on the 
 language.
